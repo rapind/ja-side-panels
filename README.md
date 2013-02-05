@@ -4,6 +4,14 @@ This is a RubyMotion demo using the [JASidePanels](https://github.com/gotosleep/
 
 Same as [their demo](https://github.com/gotosleep/JASidePanels/tree/master/JASidePanels/Demo), with a few tweaks.
 
+## Try it out
+
+```
+git clone git://github.com/rapind/ja-side-panels.git
+cd ja-side-panels
+bundle
+rake
+```
 
 ### What it looks like
 
