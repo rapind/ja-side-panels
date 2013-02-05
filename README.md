@@ -5,7 +5,8 @@ This is a RubyMotion demo using the [JASidePanels](https://github.com/gotosleep/
 Same as [their demo](https://github.com/gotosleep/JASidePanels/tree/master/JASidePanels/Demo), with a few tweaks.
 
 
-## What it looks like
+### What it looks like
 
 ![Left Panel](screens/left.png)
+
 ![Right Panel](screens/right.png)
